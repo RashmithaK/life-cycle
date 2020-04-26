@@ -8,4 +8,6 @@ inside render: method is required, and is the method that actual outputs HTML to
 inside componentDidMount: method is called after the component is rendered(to mount the details)
 After componentDidMount  render will be called again.
 
-Update:
+Update: component did update
+
+flow of the life cycle methods and api integration
